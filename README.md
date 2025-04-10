@@ -18,7 +18,7 @@
 - Microsoft (MSFT)
 - Google (GOOG)
 - Amazon (AMZN)
-###each dataset contains historical values including Open, High, Low, Close, and Volume. 
+### Each dataset contains historical values including Open, High, Low, Close, and Volume (https://finance.yahoo.com/). 
 ## 👨‍💻 Author
 ### Destya Rosa Mardiana
 ### Electronics and Instrumentation | Universitas Gadjah Mada
